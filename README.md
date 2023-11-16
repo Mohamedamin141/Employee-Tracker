@@ -18,6 +18,10 @@ Given a command-line application that accepts user input:
 - When I choose to add an employee, I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database.
 - When I choose to update an employee role, I am prompted to select an employee to update and their new role and this information is updated in the database.
 
+## Description
+
+This command-line application is a comprehensive business management system designed for business owners who want to have a clear overview and control of their company. The application allows users to view and manage the departments, roles, and employees in their company, enabling them to organize and plan their business more effectively. By providing a structured view of the company's departments, roles, and employees, the application helps business owners make informed decisions and strategies.
+
 ## Installation
 
 1. Clone the repository
